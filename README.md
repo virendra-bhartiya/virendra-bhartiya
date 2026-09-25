@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Virendra Kumar Bhartiya 👋
 
-<!--
-**virendra-bhartiya/virendra-bhartiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Embedded / Firmware Engineer
 
-Here are some ideas to get you started:
+Electronics & Communication Engineer focused on embedded systems, firmware development, STM32, ARM Cortex-M and communication protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+- Embedded C
+- C Programming
+- STM32 / ARM Cortex-M
+- GPIO, Timers, PWM, ADC
+- Interrupts & DMA
+- UART, SPI, I²C
+- CAN & RS-485
+- Bare-Metal Firmware
+- STM32 HAL
+- PCB Debugging
+- VVVF / Power Electronics                    
+
+## 🚀 Current Projects
+
+### STM32F446RE Firmware
+Working with:
+- Register-level programming
+- GPIO
+- UART
+- SPI
+- I²C
+- Timers
+- PWM
+- Interrupts
+- DMA
+
+### STM32 ↔ 8051 Communication
+UART communication between STM32F446RE and AT89S52/8051.
+
+### Embedded Communication Protocol Stack
+Developing reusable firmware modules for:
+- UART
+- SPI
+- I²C
+- CAN
+- RS-485
+- CRC
+- ACK/NACK
+- Timeout
+- Retransmission
+
+## 🛠 Tools
+
+- VS Code
+- ARM GNU Toolchain
+- CMake
+- Ninja
+- STM32CubeProgrammer
+- ST-LINK
+- Git / GitHub
+
+## 🎯 Career Focus
+
+Embedded Firmware • STM32 • ARM Cortex-M • Communication Protocols • Hardware-Firmware Debugging
+
+## 📫 Connect
+
+- LinkedIn: Add your LinkedIn URL here
